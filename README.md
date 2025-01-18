@@ -1,3 +1,5 @@
+[img](assets/img/banner.webp)
+
 # Bacteria Comparison Using k-mer Frequencies
 
 ## Introduction
