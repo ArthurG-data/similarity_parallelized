@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="client/src/assets/img/banner.webp" alt="banner logo">
+  <img src="client/src/assets/img/banner_logo.webp" alt="banner logo">
 </p>
 
 # Bacteria Comparison Using k-mer Frequencies
