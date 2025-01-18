@@ -1,4 +1,4 @@
-[img](assets/img/banner.webp)
+<p align="center"><img="assets/img/banner.webp"></p>
 
 # Bacteria Comparison Using k-mer Frequencies
 
