@@ -128,3 +128,5 @@ The application shows significant performance improvements, making it feasible t
 ### Input Format
 
 Each input `.txt` file should be structured as:
+
+gi|10140927|ref|NP_065504.1| A1 [Alcelaphine herpesvirus 1] MRLHFLFYRSIEFMYYKKSRHKIFCITLSLYFLTAHKRPSARNPITDFFSRIWGPCFYKWSRHQLLLVNQ LMLSPCRNKCSLTSADQCITANEDTTK
