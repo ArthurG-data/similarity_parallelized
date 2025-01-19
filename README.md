@@ -14,7 +14,8 @@ With billions of bacterial species on Earth and proteome sizes ranging from 500 
 ### Technologies Used
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white" alt="C++"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white" alt="R"/>
 </p>
 ---
 
